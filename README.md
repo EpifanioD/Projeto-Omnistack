@@ -1,4 +1,6 @@
-# Semana-Omnstack
+<h1 align="center">
+    <img alt="Semana-Omnistack" src="https://arturkilldragon.files.wordpress.com/2019/06/omnistack-wallpaper-1920x1080.png" width="400px" />
+</h1>
 
 ## Aplicação feita em Node, React e React-Native ##
 
