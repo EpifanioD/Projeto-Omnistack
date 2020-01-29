@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Semana-Omnistack" src="https://carloshayashi.com/wp-content/uploads/2019/10/AirCnC-1024x627.jpg" width="600px" />
+    <img alt="Semana-Omnistack" src="https://carloshayashi.com/wp-content/uploads/2019/10/AirCnC-1024x627.jpg" width="700px" />
 </h1>
 
 <h2 align='center'>
