@@ -18,7 +18,7 @@ ele tem a parte Web onde a empresa faz o seu cadastro e depois cria os seus Spot
     - ReactJS;
     - Socket.io;
     - Axios;
-    - <p target='blank' src='https://github.com/EpifanioD/Semana-Omnstack/blob/master/frontend/package.json'>Outras dependencias</p>
+    - [Outras dependencias](https://github.com/EpifanioD/Semana-Omnstack/blob/master/frontend/package.json)
 - Mobile
     - React Native;
     - Expo;
